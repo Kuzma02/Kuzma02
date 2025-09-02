@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋,
 
  I'm Aleksandar Kuzmanovic</h1>
-<h3 align="center">I'm a Full-Stack Developer with an undergraduate degree in Computer Science from Serbia.</h3>
+<h3 align="center">Full-Stack Developer · SEO Specialist · Performance Optimization Specialist</h3>
 
 - 🔭 I’m currently working on **Advanced MERN Chat Project**
 - 🌱 I’m currently learning **an advanced level of Next.js and solving LeetCode problems daily**.
