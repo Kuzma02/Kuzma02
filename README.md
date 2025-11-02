@@ -1,8 +1,8 @@
-![new skillls](https://github.com/user-attachments/assets/035fbd8c-270e-461e-a34e-a9303fe8fba9)
+<img width="1584" height="396" alt="Beige Monochrome Simple Architect LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/1e04092d-803f-4db0-9628-39671eec5358" />
 
-<h1 align="center">Hi 👋,
 
- I'm Aleksandar Kuzmanovic</h1>
+
+ <h1>I'm Aleksandar Kuzmanovic</h1>
 <h3 align="center">Full-Stack Developer · SEO Specialist · Performance Optimization Specialist</h3>
 
 - 🔭 I’m currently working on **Advanced MERN Chat Project**
