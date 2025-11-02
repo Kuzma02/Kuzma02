@@ -3,11 +3,11 @@
 
 
  <h1>I'm Aleksandar Kuzmanovic</h1>
-<h3 align="center">Full-Stack Developer · SEO Specialist · Performance Optimization Specialist</h3>
+<h3 align="center">Full-Stack Developer · SEO and Performance Specialist</h3>
 
-- 🔭 I’m currently working on **Advanced MERN Chat Project**
-- 🌱 I’m currently learning **an advanced level of Next.js and solving LeetCode problems daily**.
-- 📫 You can reach me via LinkedIn or email: aleksandarkuzmanovic02@gmail.com
+ I’m currently working on **Advanced MERN Chat Project**
+ I’m currently learning **an advanced level of Next.js and solving LeetCode problems daily**.
+ You can reach me via LinkedIn or email: aleksandarkuzmanovic02@gmail.com
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
