@@ -3,7 +3,7 @@
 
 
  <h1>I'm Aleksandar Kuzmanovic</h1>
-<h3>Full-Stack Developer · SEO and Performance Specialist</h3>
+<h3>Full-Stack Developer + SEO and Performance Specialist</h3>
 
 <p>Email: aleksandarkuzmanovic02@gmail.com</p>
 
