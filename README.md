@@ -1,5 +1,4 @@
-<img width="1584" height="396" alt="Beige Monochrome Simple Architect LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/1e04092d-803f-4db0-9628-39671eec5358" />
-
+<img width="1584" height="396" alt="Aleksandar Kuzmanovic banner" src="https://github.com/user-attachments/assets/f8138079-d3bc-41a9-9f7a-e5ef93775a36" />
 
 
  <h1>I'm Aleksandar Kuzmanovic</h1>
