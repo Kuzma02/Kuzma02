@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="ak banner v2" src="https://github.com/user-attachments/assets/c323a8db-e6af-489a-9447-64d2e1c090dd" />
+<img width="1584" height="396" alt="ak banner v2" src="https://github.com/user-attachments/assets/52e1666c-3c80-4b36-901b-4f01d0fffe11" />
 
  <h1>I'm Aleksandar Kuzmanovic</h1>
 <h3>Full-Stack Developer + SEO and Performance Specialist</h3>
